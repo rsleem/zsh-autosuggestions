@@ -15,6 +15,7 @@ Requirements: Zsh v4.3.11 or later
 ## Installation
 
 See [INSTALL.md](INSTALL.md).
+I ADDED FEW NOTES TO TEST the ability to push to my branch..........
 
 
 ## Usage
