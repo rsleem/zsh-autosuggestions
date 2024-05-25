@@ -1,0 +1,2 @@
+[submodule "dotfile/zsh-autosuggestions"]
+	branch = master
